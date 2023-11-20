@@ -2,7 +2,7 @@
 
 ![Mammal 2D Visualization](./mammal_vis_wide.png)
 
-This repository contains official implementation of the paper
+This repository is forked from the official repo for:
 [Shadow Cones: Unveiling Partial Orders in Hyperbolic Space](https://arxiv.org/abs/2305.15215).
 Some of our code in data loading part is adopted from [hyperbolic_cones](https://github.com/dalab/hyperbolic_cones).
 
